@@ -1,0 +1,6 @@
+id,first_name,last_name,grade,difference_from_average
+1,John,Doe,90,5.25
+2,Jane,Smith,85,0.25
+3,Emily,Jones,88,3.25
+...
+20,William,White,73,-11.75
